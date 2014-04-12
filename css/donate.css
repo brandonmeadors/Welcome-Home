@@ -1,0 +1,35 @@
+#hero_image_donate{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+h1{
+	float: left;
+	width: 277px;
+}
+
+.paragraph img{
+	margin-left: 53px;
+}
+
+.paragraph_right{
+	margin-left: 50px;
+	color: #b0b0b0;
+	float: right;
+	width: 570px;
+	line-height: 2;
+}
+
+form{
+	color: #b0b0b0;
+	clear: both;
+	float: left;
+	margin-top: 10px;
+}
+.footer_donate{
+	margin-top: 260px;
+}
+
+footer{
+	margin-top: 30px;
+}

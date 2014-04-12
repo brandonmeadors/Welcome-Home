@@ -1,0 +1,22 @@
+#hero_about_image{
+	margin-top: 25px;
+}
+
+.about_para_head{
+	width: 900px;
+	height: auto;
+}
+
+h1{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 40px;
+	color: #0c5fa4;
+	letter-spacing: 5px;
+}
+
+p{
+	line-height: 2;
+	color: #b0b0b0;
+	text-indent: 70px;
+}

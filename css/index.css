@@ -1,0 +1,192 @@
+.hero{
+	width: 900px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#hero_image{
+	padding-top: 25px;
+}
+
+h2{
+	text-align: center;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#donate{
+	background: #b0b0b0;
+	font-size: 28px;
+	padding: 30px 71px 30px 71px;
+	margin-right: 150px;
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	float: right;
+}
+
+#donate:hover{
+	background: #7a80c9;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+#involved{
+	background: #b0b0b0;
+	font-size: 28px;
+	padding: 30px 25px 30px 25px;
+	margin-left: 150px;
+	margin-right: 36px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	float: left;
+}
+
+#involved:hover{
+	background: #5393d0;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+
+a.buttons:link{
+	color: #fff;
+	text-decoration: none;
+}
+
+a.buttons:visited{
+	text-decoration: none;
+	color: #fff;
+}
+
+a.buttons:hover{
+	background: #5393d0;
+}
+
+buttons a{
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+.buttons{
+	color: #fff;
+	margin-bottom: 10px;
+	height: auto;
+}
+
+.projects{
+	display: inline-block;
+	height: auto;
+	padding: 15px 0px 15px 0px;
+	border-bottom: 4px #b0b0b0 solid;
+}
+
+.project_box{
+	padding-top: 20px;
+	padding-bottom: 0px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.project_link{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+project_link a{
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+project_link_head a{
+	-webkit-transition: all 1s ease-in;
+	-moz-transition: all 1s ease-in;
+	-o-transition: all 1s ease-in;
+	transition: all 1s ease-in;
+}
+
+a.project_link:link{
+	text-decoration: none;
+	color: #FFF;
+	padding: 0px 0px 0px 0px;
+}
+
+a.project_link:visited{
+	color: #FFF;
+}
+
+a.project_link:hover{
+	color: #fff;
+	background: #6f75b3;
+}
+
+a{
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}
+
+#past a{
+	padding: 17px 106px 17px 106px;
+}
+
+#past{
+	float: left;
+	width: 250px;
+	margin: 0px 0px 0px 0px;
+}
+
+#current a{
+	padding: 17px 89px 17px 89px;
+}
+
+#current{
+	width: 250px;
+	text-align: center;
+	float: left;
+	margin: 0px 75px 0px 75px;
+}
+
+#future a{
+	padding: 17px 95px 17px 95px;
+}
+
+#future{
+	width: 250px;
+	float: right;
+}
+
+.project_text_box{
+	width: 250px;
+}
+
+#past_box{
+	float: left;
+}
+
+#future_box{
+	float: right;
+}
+
+#current_box{
+	margin: 20px 0px 0px 325px;
+}
+
+p{
+	text-indent: 50px;
+	text-align: justify;
+	line-height: 2;
+	color: #AAA;
+}
